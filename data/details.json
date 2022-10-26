@@ -70,14 +70,5 @@
 		"category": "Styles",
 		"image": "https://i.ibb.co/fFp9dcK/html5-css3-hd.jpg",
 		"rating": 4.7
-	},
-	{
-		"id": 9,
-		"title": "React Full Course",
-		"price": 210,
-		"description": "React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight real-world projects and solving 140+ coding challenges.  Bob Ziroll teaches this course. Bob is the Head of Education at Scrimba and his previous React course is one of the most popular React courses on YouTube.",
-		"category": "Library",
-		"image": "https://i.ibb.co/cDH0VFq/reactjs-facebook-javascript-minimalism-wallpaper-preview.jpg",
-		"rating": 5
 	}
 ]
