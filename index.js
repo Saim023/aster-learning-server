@@ -22,11 +22,6 @@ app.get('/course/:id', (req, res) => {
     const item = course.find(itm => itm.id == id);
     res.send(item);
 });
-app.get('/course/:id', (req, res) => {
-    const id = req.params.id;
-    const ite = course.find(it => it.id == id);
-    res.send(ite);
-});
 
 app.listen(port, () => {
     console.log('server running successfully')
